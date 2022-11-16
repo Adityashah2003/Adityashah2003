@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **adigshah14@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-shah-38908b21b/](https://www.linkedin.com/in/aditya-shah-38908b21b/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityashah_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityashah_16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/aditya-shah-38908b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditya-shah-38908b21b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
