@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Shah</h1>
 <h3 align="center">Formula-Manipal-Driverless Team Member</h3>
 
-<p align="left"> <a href="https://twitter.com/adityashah_16" target="blank"><img src="https://img.shields.io/twitter/follow/adityashah_16?logo=twitter&style=for-the-badge" alt="adityashah_16" /></a> </p>
-
 - 🔭 I’m currently working on **Deep learning**
 
 - 🌱 I’m currently learning **Web Dev and Machine learning**
