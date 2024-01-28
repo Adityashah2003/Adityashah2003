@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Shah</h1>
 <h3 align="center">Formula-Manipal-Driverless Team Member</h3>
 
-- 🔭 I’m currently working on **SLAM**
-
 - 🌱 I’m currently learning **Web Dev and Machine learning**
 
 - 📫 How to reach me **adigshah14@gmail.com**
